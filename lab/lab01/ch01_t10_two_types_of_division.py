@@ -1,2 +1,2 @@
 cucumbers = 100
-num_
+num_people = 6
