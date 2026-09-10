@@ -1,1 +1,1 @@
-print "Hello World!" #Python2
+print "Hello World!"
