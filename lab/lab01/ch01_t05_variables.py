@@ -1,3 +1,3 @@
 import datetime
 
-todays_
+todays_date
