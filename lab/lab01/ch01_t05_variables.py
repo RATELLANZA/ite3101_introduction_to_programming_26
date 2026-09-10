@@ -1,3 +1,3 @@
 import datetime
 
-todays_date = f""
+todays_date = f"{}"
