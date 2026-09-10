@@ -1,1 +1,1 @@
-sk
+skill_completed
