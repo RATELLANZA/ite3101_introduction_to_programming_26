@@ -1,4 +1,4 @@
 from datetime import datetime
 
 now = datetime.now()
-print('' % (now.month, now.day, now.year))
+print('%02d/%02d/%04y' % (now.month, now.day, now.year))
