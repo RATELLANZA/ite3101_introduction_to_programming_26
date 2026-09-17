@@ -10,6 +10,6 @@ numbered 0 to 5, as shown below:
 So if you wanted "Y", you could just type
 "PYTHON"[1] (always start counting from 0!)
 """
-Y = "MONTY"[4]
+ = "MONTY"[4]
 
 print()
