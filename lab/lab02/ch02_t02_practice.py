@@ -5,6 +5,3 @@
 caesar to "Graham"
 -	Set praline to "John"
 -	Set viking to "Teresa"
-# print(caesar)
-# print(praline)
-# print(viking)
