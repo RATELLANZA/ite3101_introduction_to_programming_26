@@ -1,1 +1,1 @@
-parrot
+parrot = ""
