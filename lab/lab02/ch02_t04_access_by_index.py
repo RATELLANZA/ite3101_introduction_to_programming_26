@@ -12,4 +12,4 @@ So if you wanted "Y", you could just type
 """
 Y = "MONTY"[5]
 
-print(fifth_letter)
+print()
