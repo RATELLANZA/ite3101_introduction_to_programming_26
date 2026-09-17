@@ -10,6 +10,6 @@ numbered 0 to 5, as shown below:
 So if you wanted "Y", you could just type
 "PYTHON"[1] (always start counting from 0!)
 """
-ifth_lettfer = "MONTY"[5]
+Y = "MONTY"[5]
 
 print(fifth_letter)
