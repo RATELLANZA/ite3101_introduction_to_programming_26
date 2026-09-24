@@ -11,7 +11,7 @@ bool_two = False
 bool_three = False
 
 # 40 * 4 >= -4
-bool_four = 
+bool_four = Ture
 
 # 100 != 10**2
 bool_five = None
