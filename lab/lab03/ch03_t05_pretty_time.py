@@ -2,4 +2,4 @@ from datetime import datetime
 
 now = datetime.now()
 
-print("%02d:%02d:%02d" % (now.hour,))
+print("%02d:%02d:%02d" % (now.hour, now.min))
