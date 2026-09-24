@@ -3,6 +3,6 @@ pyg = 'ay'
 original = input('Enter a word:')
 
 if len(original) > 0 and original.isalpha():
-    print(original)
+    wor =original)
 else:
     print('empty')
