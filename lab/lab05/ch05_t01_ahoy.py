@@ -1,1 +1,1 @@
-print the phrase "Pig Latin"
+print("Pig Latin")
