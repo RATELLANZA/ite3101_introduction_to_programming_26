@@ -1,8 +1,8 @@
 
 
-
-
 def spam():
+
+
 print("Eggs!")
 
 
