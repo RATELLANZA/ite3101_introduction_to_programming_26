@@ -3,6 +3,6 @@
 # explain it soon!
 
 def spam():
-   """Prints 'Hello World!' to the console."""
+   """Prints 'Eggs!' to the console."""
    print("Hello World!")
 spam()
