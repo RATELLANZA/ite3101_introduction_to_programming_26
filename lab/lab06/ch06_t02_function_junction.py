@@ -2,4 +2,4 @@
 
 
 
-spam()
+def spam()
