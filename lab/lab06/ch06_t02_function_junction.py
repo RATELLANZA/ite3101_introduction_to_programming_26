@@ -3,3 +3,4 @@
 
 
 def spam()
+    print()
