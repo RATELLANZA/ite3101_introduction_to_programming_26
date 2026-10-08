@@ -3,7 +3,8 @@
 #
 
 def spam():
-print("Eggs!")
+    print("Eggs!")
+
 
 #
 spam()
