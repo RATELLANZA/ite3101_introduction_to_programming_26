@@ -1,2 +1,2 @@
-def cube(number:int)->int:
-    return number * number
+def cube(number: int) -> int:
+    return number * number * number
