@@ -1,1 +1,1 @@
-def
+def shut_
