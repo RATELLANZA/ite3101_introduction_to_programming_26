@@ -5,4 +5,5 @@ def cube(number: int) -> int:
     return number * number * number
 
 def by_three(number:int)-> Any:
-    if number
+    if number % 3 ==0:
+        return 
