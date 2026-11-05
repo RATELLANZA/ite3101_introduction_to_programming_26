@@ -5,7 +5,7 @@ lloyd = {
     "test": []
 }
 
-lloyd = {
+ali = {
     "name":"Lloyd",
     "homework": [],
     "quizzes": [],
