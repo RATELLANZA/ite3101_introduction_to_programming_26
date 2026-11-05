@@ -1,5 +1,6 @@
 from typing import List
 
+# The following 7 lines of codes are for UnitTest and you don't need them for your real applications!
 global lloyd
 global alice
 global tyler
@@ -39,15 +40,4 @@ def get_average(student: dict) -> float:
     tests = average(student["tests"])
     return 0.1 * homework + 0.3 * quizzes + 0.6 * tests
 
-
-def get_letter_grade(score: float) -> str:
-    if score >= 90:
-        return "A"
-    elif score >= 80:
-        return "B"
-    elif score >= 70:
-        return "C"
-    elif score >= 60:
-        return "D"
-    else:
-        return "F"
+# Add your function below!
