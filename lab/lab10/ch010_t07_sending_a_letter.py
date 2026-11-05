@@ -1,5 +1,13 @@
 from typing import List
 
+global lloyd
+global alice
+global tyler
+global average
+global get_average
+global get_letter_grade
+global get_class_average
+
 lloyd = {
     "name": "Lloyd",
     "homework": [90.0, 97.0, 75.0, 92.0],
