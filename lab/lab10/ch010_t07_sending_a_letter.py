@@ -1,14 +1,5 @@
 from typing import List
 
-# The following 7 lines of codes are for UnitTest and you don't need them for your real applications!
-global lloyd
-global alice
-global tyler
-global average
-global get_average
-global get_letter_grade
-global get_class_average
-
 lloyd = {
     "name": "Lloyd",
     "homework": [90.0, 97.0, 75.0, 92.0],
@@ -39,5 +30,21 @@ def get_average(student: dict) -> float:
     quizzes = average(student["quizzes"])
     tests = average(student["tests"])
     return 0.1 * homework + 0.3 * quizzes + 0.6 * tests
+
+
+def get_letter_grade(score: float) -> str:
+    if score >= 90:
+        return "A"
+    elif score >= 80:
+        return "B"
+    elif score >= 70:
+        return "C"
+    elif score >= 60:
+        return "D"
+    else:
+        return "F"
+
+
+print(get_letter_grade(get_average(lloyd)))
 
 # Add your function below!
