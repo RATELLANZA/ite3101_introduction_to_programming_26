@@ -12,7 +12,7 @@ alice = {
     "test": []
 }
 
-lloyd = {
+tyler = {
     "name":"Lloyd",
     "homework": [],
     "quizzes": [],
