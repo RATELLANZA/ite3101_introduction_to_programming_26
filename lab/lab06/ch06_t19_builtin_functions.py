@@ -1,7 +1,4 @@
 from typing import Any
 
 
-
-
-
-def distance_from_zero(d: Any)->Any:
+ef distance_from_zero(d: Any)->Any:
