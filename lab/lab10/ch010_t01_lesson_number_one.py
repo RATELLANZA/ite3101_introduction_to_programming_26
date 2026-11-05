@@ -2,19 +2,19 @@ lloyd = {
     "name": "Lloyd",
     "homework": [],
     "quizzes": [],
-    "test": []
+    "tests": []
 }
 
 alice = {
     "name": "Alice",
     "homework": [],
     "quizzes": [],
-    "test": []
+    "tests": []
 }
 
 tyler = {
     "name": "Tyler",
     "homework": [],
     "quizzes": [],
-    "test": []
+    "tests": []
 }
