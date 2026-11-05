@@ -1,4 +1,4 @@
-lloyd ={
+lloyd = {
     "name":"Lloyd",
     "homework": [],
     "quizzes": [],
