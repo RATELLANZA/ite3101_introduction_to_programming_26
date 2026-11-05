@@ -64,5 +64,7 @@ def get_class_average(class_list: List[dict]) -> float:
         results.append(get_average(student))
     return average(results)
 
+
 # Add code below!
-stuents = [alice,lloyd]
+stuents = [alice,lloyd,tyler]
+print(ge)
