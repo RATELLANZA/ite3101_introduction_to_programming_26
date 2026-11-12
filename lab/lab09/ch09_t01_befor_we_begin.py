@@ -1,4 +1,4 @@
 names = ["Adam", "Alex", "Mariah", "Martine", "Columbus"]
 
-for name in name:
+for name in names:
     print(name)
