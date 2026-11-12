@@ -1,4 +1,4 @@
-# Write your funtion
+# Write your function below!
 
 from typing import List
 
