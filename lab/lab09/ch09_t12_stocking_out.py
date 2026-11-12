@@ -1,5 +1,10 @@
 from typing import List
 
+# The following 3 lines of codes are for UnitTest and you don't need them for your real applications!
+global shopping_list
+global stock
+global prices
+
 shopping_list = ["banana", "orange", "apple"]
 
 stock = {
@@ -21,5 +26,7 @@ prices = {
 def compute_bill(food: List[str]) -> float:
     total = 0
     for item in food:
-        total += prices[item]
+        if stock[item] > 0:
+            total += prices[item]
+            stock[item] -= 1
     return total
