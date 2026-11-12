@@ -1,3 +1,3 @@
 
 
-def fizz_count(x:Llist)
+def fizz_count(x:List)
