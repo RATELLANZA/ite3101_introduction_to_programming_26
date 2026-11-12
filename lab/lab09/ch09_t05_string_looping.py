@@ -1,4 +1,4 @@
-r letter in "Codecademy":
+for letter in "Codecademy":
     print(letter)
 
 # Empty lines to make the output pretty
