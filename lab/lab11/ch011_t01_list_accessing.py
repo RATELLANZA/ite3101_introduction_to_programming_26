@@ -1,3 +1,4 @@
 n = [1, 3, 5]
+# Do your multiplication here
 
-# Add your code below
+print(n)
