@@ -7,4 +7,4 @@ def my_function(x: range) -> List[int]:
         result.append(x[i])
     return result
 
-print(my_function(range(0,3 Add your range between the parentheses!
+print(my_function(range(0,3)))d your range between the parentheses!
