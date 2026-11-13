@@ -1,4 +1,4 @@
 n = [1, 3, 5]
 # Append the number 4 here
-n.remove(1)
+n.append(4)
 print(n)
