@@ -1,5 +1,5 @@
 count = 0
 
-while count < 10:  # Add a colon
+while count < 10:
     print(count)
     # Increment count
