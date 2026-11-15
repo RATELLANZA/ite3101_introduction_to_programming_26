@@ -7,4 +7,4 @@ for num in numbers:
 
 # Add your loop below!
 for num in numbers:
-    pr
+    print(num ** 2)
