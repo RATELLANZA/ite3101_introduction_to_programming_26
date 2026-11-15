@@ -1,0 +1,1 @@
+def censor(text)
