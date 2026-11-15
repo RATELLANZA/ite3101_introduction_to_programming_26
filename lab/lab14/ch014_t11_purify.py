@@ -1,0 +1,2 @@
+
+def purify(seq: List)
