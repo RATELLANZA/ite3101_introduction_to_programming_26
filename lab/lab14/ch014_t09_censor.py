@@ -5,3 +5,4 @@ def censor(text:str,word:str)->str:
             result.append("*" * len(word))
         else:
             result.append(s)
+    return result
