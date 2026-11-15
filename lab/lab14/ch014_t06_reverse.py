@@ -1,0 +1,1 @@
+def reverse(text:str)
